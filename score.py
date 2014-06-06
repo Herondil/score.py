@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Programme de comptage de points
 #
-# Par Double Z.
+# Par Double Z & Herondil
 # =============================================
 
 import irclib
