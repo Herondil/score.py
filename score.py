@@ -14,7 +14,7 @@ description = "Bot de comptage de points en Python via ircBot"
 room = "#scoreTest"
 server = "irc.worldnet.net"
 port = 6667
-utilisateurs = ["DoubleZ","Erendil","Shello","Doune","Papsh"]
+utilisateurs = ["Admin"]
 
 score = {}
 
