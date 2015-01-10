@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Programme de comptage de points
 #
-# Par Double Z.
+# Par Double Z & Herondil
 # =============================================
 
 import irclib
@@ -14,7 +14,7 @@ description = "Bot de comptage de points en Python via ircBot"
 room = "#scoreTest"
 server = "irc.worldnet.net"
 port = 6667
-utilisateurs = ["DoubleZ","Erendil","Shello","Doune","Papsh"]
+utilisateurs = ["Admin"]
 
 score = {}
 
