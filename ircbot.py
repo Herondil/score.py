@@ -85,7 +85,7 @@ class SingleServerIRCBot(SimpleIRCClient):
 
     def _connect(self):
         """[Internal]"""
-        password = "muchmore512"
+        password = None
         if len(self.server_list[0]) > 2:
             password = self.server_list[0][2]
         try:
